@@ -1,0 +1,19 @@
+{
+    "name": "arasmubaraq/tugas2-pln",
+    "description": "Tugas 2 Pemrograman Berbasis Web Lanjutan 2022",
+    "type": "project",
+    "authors": [
+        {
+            "name": "arasmubaraq-uinsu",
+            "email": "arasmubaraq@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
